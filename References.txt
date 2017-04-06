@@ -1,0 +1,7 @@
+External Resources used in design:
+Sonic Template: www.templatemo.com/tm-394-sonic
+PrettyPhoto: www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+FlexSlider: flexslider.woothemes.com
+Bootstrap: getbootstrap.com
+
+No infringement intended on any of these sources
